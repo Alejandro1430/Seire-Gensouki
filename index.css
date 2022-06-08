@@ -1,0 +1,79 @@
+body{
+    background-image: url(234.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header{
+    position: relative;
+    width: 201px;
+    height: 236px;
+    position: fixed;
+}
+
+h2{
+ margin-left: 240PX;
+ color: rgb(0, 81, 255);
+ width: 11%;
+}
+
+.poderes{
+    margin-left: 240PX;
+    color: rgb(0, 81, 255);
+    width: 24%;
+   }
+
+.links{
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255); 
+    font-size: x-large;
+    margin: 5px;
+    width: 150px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 24px;
+}
+
+.links2{
+ text-decoration: none;
+}
+
+.intro{
+ width: 7%;
+}
+
+.parrafo{
+ margin-left: 240px;
+ position: relative;
+ bottom: 13px;
+ font-size: larger;
+ text-align: justify; 
+ background-color: rgba(249, 249, 249, 0.5);
+}
+
+.Artes{
+    position: relative;
+    bottom: 5px;
+    margin-left: 250px;
+    font-size: x-large;
+    color: rgb(0, 81, 255);
+    width: 16%;
+}
+
+.Arte{
+    position: relative;
+    bottom: 5px;
+    margin-left: 250px;
+    font-size: x-large;
+    color: rgb(0, 81, 255);
+    width: 14%;
+}
+
+.Art{
+    position: relative;
+    bottom: 5px;
+    margin-left: 250px;
+    font-size: x-large;
+    color: rgb(0, 81, 255);
+    width: 6%;
+}
